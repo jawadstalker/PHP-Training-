@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+header, footer {
+    text-align: center;
+}
+article {
+    margin-bottom: 20px;
+}
+a {
+    text-decoration: none;
+    color: #333;
+}
+a:hover {
+    color: #007BFF;
+}
