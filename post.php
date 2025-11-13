@@ -5,17 +5,51 @@ include "header.php";
 $posts = [
     [
         "id" => 1,
-        "title" => "First Post",
+        "title" => "The Art of How to SEE",
         "author" => "Jawad",
         "date" => "2025-11-12",
-        "content" => "This is the first post on my PHP blog."
+        "content" => "An insider joke that serves as a beginner’s guide to navigating art.
+
+Staring at a canvas that appears to have been created by a mischievous toddler, you find yourself in a dazzling white gallery. One dramatic flashlight shines on a pile of rusty automobile tires in the corner. A man eating a carrot in silence is shown in a continuous film.
+
+“Is this art?” your inner monologue yells. It’s beyond me. What am I overlooking?
+
+Take a big breath first. It is not just you. It is not a sign of weakness on your part to feel perplexed when confronted with postmodern art; for nearly everyone, it is the default setting.
+
+Postmodern art is not a problem to be solved, which is the secret. Participate in this conversation. Participation does not require a degree in art history. All you need to do is change your perspective a little.
+
+Let’s take a basic look at it.
+
+Step 1: Discard All Your Knowledge of “Good” Art
+"
     ],
     [
         "id" => 2,
-        "title" => "Second Post",
+        "title" => "Why Ending matters!",
         "author" => "Jawad",
         "date" => "2025-11-13",
-        "content" => "Here is another post. PHP is fun!"
+        "content" => "**»The Art of a Sentence That Hits You: Hemingway’s Secret«**
+
+---
+
+Ernest Hemingway once said that every sentence should carry weight, even if it’s short. Imagine reading a line and feeling it settle deep inside you, like a pebble dropped into still water. He believed the power of a sentence lies in its honesty, in its ability to strip away everything unnecessary. You might think simplicity is easy, but it’s a trap. It requires cutting and refining, listening to the heartbeat of your words. Hemingway didn’t just write; he excavated meaning from the mundane. He wanted readers to feel the shock, the thrill, the quiet sorrow of life with just a few carefully chosen words. And that’s the kind of writing that doesn’t let you go. It whispers, then hits, then lingers. There’s a rhythm to it, almost musical, that pulls you forward. And when you encounter it, you understand why brevity is brutal and beautiful.
+
+What fascinates me is how Hemingway’s sentences are almost invisible until they strike. They don’t scream for attention; they demand it subtly, like a shadow crossing your path. There’s a humility there—he never shows off his skill, but you notice it anyway. It’s a lesson in restraint. Every word must earn its place. No fluff, no filler. Each sentence is a handshake with the reader, firm and deliberate. And somewhere between the lines, you feel the life behind the words. That’s the trick: to let the sentence carry the story without ever needing a spotlight. It’s invisible craftsmanship.
+
+Hemingway also taught us that a sentence should echo beyond the page. It should leave a trace, a quiet mark in the mind. Think of the sentences that make you pause, that make you exhale slowly because they just… fit. There’s an almost magical tension in choosing the right word, the right cadence. He showed us that writing isn’t about decoration; it’s about resonance. A single sentence can capture fear, joy, or love more vividly than an entire paragraph padded with adjectives. The beauty of his work is that it doesn’t overwhelm; it invites you to fill the spaces with your own experience. That is the gentle violence of Hemingway’s style: subtle yet unavoidable.
+
+The human side of this is critical. Hemingway’s sentences feel real because they come from lived experience. They are not invented in a vacuum; they are dug out of life’s grit, sweat, and silence. When you read him, you don’t just see a story; you feel the edges, the textures, the quiet weight of being alive. His sentences work like tiny jolts of electricity, precise and calibrated. Each one is meant to connect, to touch something deep and sometimes uncomfortable. He understood that readers don’t just want to be told a story—they want to be shown, to be hit softly but unmistakably.
+
+If you think about writing this way, every paragraph becomes a stage, and every sentence is an actor. Hemingway didn’t want his sentences to merely sit there; he wanted them to perform. To live. To make the reader catch their breath. The brilliance is in making it feel effortless. You read it, and it seems natural, inevitable even, as if it couldn’t have been written any other way. But behind that simplicity lies years of practice, experimentation, and ruthless editing. Hemingway stripped his words down to the bare bones, but each bone was a backbone of the story itself.
+
+And here’s the connection to us, the storytellers, the dreamers: sentences are tiny revolutions. A single sentence can shift a perspective, change a mood, alter the rhythm of thought. Hemingway’s gift was understanding that. He treated sentences as small but mighty instruments of power. They are like arrows shot straight into the reader’s chest, leaving them stunned, thinking, feeling. If we want to honor that, we must cultivate patience, precision, and courage. Writing like this is not about impressing others—it’s about respecting the reader’s intelligence and emotions.
+
+Neil Gaiman would tell you that this kind of sentence-making is an act of kindness. To write a line that resonates is to say: I see you. I feel what you might feel. Hemingway’s sentences do this without melodrama, without excess. They are bridges across the space between writer and reader. Every punctuation mark, every word choice, is deliberate. And when it works, it feels like magic. You sense the human behind the words, the consciousness making decisions with love and rigor. It’s intimate, in a way that few forms of art achieve.
+
+Hemingway also shows that brevity is not emptiness; it’s intensity. A short, well-crafted sentence can hit harder than a long, wandering paragraph. There is a rhythm to thought, and his words sync with that rhythm, guiding readers effortlessly through the narrative. He respected silence, pause, and space, letting sentences breathe. And we learn that writing is not just putting words on a page—it’s sculpting experience, choosing which moments to illuminate and which to leave in shadow. The sentence becomes a lantern in the dark, a compass for emotion.
+
+Finally, the lesson is simple yet profound: aim to craft sentences that are alive. Ones that hit, linger, and resonate long after the page is closed. Hemingway didn’t just teach us writing; he taught us attention, empathy, and honesty. And in this, we find our own path: to write not for show, but for impact; not for applause, but for connection. Each sentence is a small miracle, and every paragraph a quiet testament to what language can do. The magic is in the balance between restraint and brilliance—between what is said and what is left unsaid. And that is how sentences become unforgettable.
+"
     ]
 ];
 
