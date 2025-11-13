@@ -5,17 +5,24 @@ include "header.php";
 $posts = [
     [
         "id" => 1,
-        "title" => "First Post",
+        "title" => "The Art Of How To See",
         "author" => "Jawad",
         "date" => "2025-11-12",
         "content" => "This is the first post on my PHP blog."
     ],
     [
         "id" => 2,
-        "title" => "Second Post",
+        "title" => "Ending Truly Matters-Hamingways View",
         "author" => "Jawad",
         "date" => "2025-11-13",
         "content" => "Here is another post. PHP is fun!"
+    ],
+    [
+        "id" => 3,
+        "title"=> "Neil Gaiman Advice for New Writers",
+        "author" => "Mohammad Jawad",
+        "date" => "Nomber 2025",
+        "content"=> "this Article speaks about some adivese from author neil gaiman for fantays new writers"
     ]
 ];
 
