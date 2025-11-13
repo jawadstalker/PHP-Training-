@@ -1,6 +1,10 @@
 <?php
 include "header.php";
+?>
 
+<!-- Main container for posts -->
+<div class="posts-container">
+<?php
 // Simulate posts as an array
 $posts = [
     [
@@ -12,7 +16,7 @@ $posts = [
     ],
     [
         "id" => 2,
-        "title" => "Ending Truly Matters-Hamingways View",
+        "title" => "Ending Truly Matters-Hemingway's View",
         "author" => "Jawad",
         "date" => "2025-11-13",
         "content" => "Here is another post. PHP is fun!"
@@ -21,19 +25,21 @@ $posts = [
         "id" => 3,
         "title"=> "Neil Gaiman Advice for New Writers",
         "author" => "Mohammad Jawad",
-        "date" => "Nomber 2025",
-        "content"=> "this Article speaks about some adivese from author neil gaiman for fantays new writers"
+        "date" => "November 2025",
+        "content"=> "This article speaks about some advice from author Neil Gaiman for fantasy new writers."
     ]
 ];
 
 // Loop through posts
-foreach ($posts as $post) {
-    echo "<article>";
-    echo "<h2><a href='post.php?id={$post['id']}'>{$post['title']}</a></h2>";
-    echo "<p>By {$post['author']} | {$post['date']}</p>";
-    echo "<p>".substr($post['content'], 0, 100)."...</p>";
-    echo "</article><hr>";
-}
+foreach ($posts as $post) : ?>
+    <article class="post-card">
+        <h2 class='post-title'><a href='post.php?id=<?= $post['id'] ?>'><?= $post['title'] ?></a></h2>
+        <p class='post-meta'>By <?= $post['author'] ?> | <?= $post['date'] ?></p>
+        <p class='post-excerpt'><?= substr($post['content'], 0, 100) ?>… <a href='post.php?id=<?= $post['id'] ?>' class="read-more">Read more</a></p>
+    </article>
+<?php endforeach; ?>
+</div>
 
+<?php
 include "footer.php";
 ?>

@@ -65,13 +65,13 @@ Step 1: Discard All Your Knowledge of “Good” Art
 
 <p>Sometimes, people ask me how I know when to end a story. The answer is: when it stops talking back. A story will speak to you while you’re writing it — sometimes softly, sometimes in screams — and then, one day, it falls quiet. That’s when you let it go. If you keep forcing it after that silence, you’re not writing a story anymore. You’re trying to resuscitate a ghost.</p>
 
-<p>I remember when I wrote *The Graveyard Book*. I didn’t want it to end. I loved that world — the ghosts, the graveyard, the boy who grew up among the dead. But I knew it was time. He had to leave. That’s what growing up is, after all — the art of walking away from the things that once kept you safe. It hurt to write that ending, but it also felt right. Bittersweet, maybe, but honest. And honesty matters more than comfort.</p>
+<p>I remember when I wrote *The Graveyard Book*. I didn’t want it to end. I loved that world — the ghosts, the graveyard, the boy who grew up among the dead. But I knew it was time. He had to leave. That’s what growing up is, after all — the art of walking away from the things that once kept you safe. It hurt to write that ending, but it also felt right. Bittersweet, maybe, but honest. And honesty matters more than comfort.
 
-<p>A good ending lingers. It sits quietly in your head long after the last page. People won’t always remember every scene, every clever line, every bit of magic. But they’ll remember how you left them. A good ending makes a story live forever in the reader’s heart. That’s the trick — not to make it perfect, but to make it unforgettable.</p>
+A good ending lingers. It sits quietly in your head long after the last page. People won’t always remember every scene, every clever line, every bit of magic. But they’ll remember how you left them. A good ending makes a story live forever in the reader’s heart. That’s the trick — not to make it perfect, but to make it unforgettable.
 
-<p>The thing about fantasy — about all storytelling, really — is that it tempts you to go on forever. There’s always another mountain, another demon, another secret. But even in worlds made of magic, there must come a moment when the curtain falls. Otherwise, nothing means anything. The end is what makes the journey matter.</P>
+The thing about fantasy — about all storytelling, really — is that it tempts you to go on forever. There’s always another mountain, another demon, another secret. But even in worlds made of magic, there must come a moment when the curtain falls. Otherwise, nothing means anything. The end is what makes the journey matter.
 
-<p>And so, when you finish your story — whether it ends in fire or in silence — remember that you’re not just closing a chapter. You’re giving your story its soul. Let it breathe its final breath. Let it rest. Because sometimes, the most magical thing a storyteller can do… is stop.</p>
+And so, when you finish your story — whether it ends in fire or in silence — remember that you’re not just closing a chapter. You’re giving your story its soul. Let it breathe its final breath. Let it rest. Because sometimes, the most magical thing a storyteller can do… is stop.
 "
     ]
     
